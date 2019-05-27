@@ -1,0 +1,27 @@
+ .container-fluid {
+    background-color: #16a2b8;
+    height: 100px;
+
+}
+.col-md {
+    font-size: 25px;
+    text-align: center;
+    margin: 0px 1px 1px 1px;
+    padding: 30px 0 0 0;
+    color: white;
+    outline: 3px solid lightslategray;
+    height: 100px;
+}
+
+.container-fluid-2 {
+    text-align: center;
+}
+
+.col-sm {
+    color: #16a2b8;
+    padding: 30px 0 0 0;
+}
+
+.container-fluid-3 {
+    text-align: center;
+}
